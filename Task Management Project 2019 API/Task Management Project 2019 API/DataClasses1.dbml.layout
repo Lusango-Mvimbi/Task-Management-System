@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataClasses1">
+  <DataContextMoniker Name="/DataClasses1DataContext" />
+  <nestedChildShapes>
+    <classShape Id="01e451fc-ca58-49d9-8394-735a6ae6cbb1" isExpanded="false" absoluteBounds="0.5, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/AltechEmployee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d5935eb3-ea08-4c45-ada3-52aa587880a7" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="23ce930c-0e37-44df-b3bc-a51588f9c50e" isExpanded="false" absoluteBounds="3, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/Division" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1b693070-15f4-4390-bd02-cc5b27e4254b" absoluteBounds="3.0149999999999997, 0.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="830c3423-c94e-4dcd-9724-080047f030a6" isExpanded="false" absoluteBounds="5.625, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/Notification" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9142a20c-f39e-461f-b4a3-378c6ccb1440" absoluteBounds="5.64, 0.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="59c94a4c-872e-48f1-9f69-867526eebfdb" isExpanded="false" absoluteBounds="0.5, 1.125, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="169082a0-af55-42fe-9e65-ee1593ad4457" absoluteBounds="0.51500000000000012, 1.585, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f090789a-bca4-4280-bd63-92b99ec83d74" isExpanded="false" absoluteBounds="3, 1.25, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/Team" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2b8bbde2-079e-4fca-acbf-da835c973c50" absoluteBounds="3.0149999999999997, 1.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.9687475 : 0.95); (3.9687475 : 1.25)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DataClasses1DataContext/Division/Division_Team" />
+      <nodes>
+        <classShapeMoniker Id="23ce930c-0e37-44df-b3bc-a51588f9c50e" />
+        <classShapeMoniker Id="f090789a-bca4-4280-bd63-92b99ec83d74" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="0b210d53-9799-4569-ac53-d5033fca270a" isExpanded="false" absoluteBounds="0.5, 4, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/ServiceLevelAgreement" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0cdb5d9e-f6cf-4775-8e38-bdf8e17b6bbe" absoluteBounds="0.51500000000000012, 4.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0ea4cada-ee18-4cb0-975a-9bf8b9713b6f" isExpanded="false" absoluteBounds="0.5, 1.875, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/Log" />
+      <nestedChildShapes>
+        <elementListCompartment Id="70fc6e7c-ea28-4ce2-a928-1ea40d8ebecd" absoluteBounds="0.515, 2.335, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="355163fd-d454-42fa-9101-d84442bdcd65" isExpanded="false" absoluteBounds="2.875, 2.25, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/Feedback" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e030fdf4-dbbb-4bd1-aa29-a85a48bed60f" absoluteBounds="2.89, 2.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8d7e522c-976e-4051-ae46-195b6be6da22" isExpanded="false" absoluteBounds="0.5, 2.75, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/Ticket" />
+      <nestedChildShapes>
+        <elementListCompartment Id="66c19a1e-ee79-4cc3-b86b-e1a7c82d6383" absoluteBounds="0.51500000000000012, 3.21, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c351ca93-9fc3-4cf8-831e-38e075572280" isExpanded="false" absoluteBounds="5.5, 1.375, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/Incident" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f4094c25-d6f5-4663-839e-3d92e3146809" absoluteBounds="5.515, 1.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5 : 0.95); (5.5 : 1.375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DataClasses1DataContext/Division/Division_Incident" />
+      <nodes>
+        <classShapeMoniker Id="23ce930c-0e37-44df-b3bc-a51588f9c50e" />
+        <classShapeMoniker Id="c351ca93-9fc3-4cf8-831e-38e075572280" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,204 @@
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\ApplicationInsights.config
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Task Management Project 2019 API.dll.config
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Task Management Project 2019 API.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Task Management Project 2019 API.pdb
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\csc.exe
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\csc.exe.config
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\csc.rsp
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\csi.exe
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\csi.exe.config
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\csi.rsp
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.Managed.Core.targets
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.AppContext.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Console.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.IO.Compression.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.IO.FileSystem.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.IO.Pipes.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Security.AccessControl.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Security.Claims.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.ValueTuple.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Xml.XPath.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\vbc.exe
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\vbc.exe.config
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\vbc.rsp
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\VBCSCompiler.exe
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Antlr3.Runtime.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AI.Web.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.ApplicationInsights.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Newtonsoft.Json.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Diagnostics.DiagnosticSource.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Net.Http.Formatting.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Helpers.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Http.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Http.WebHost.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Mvc.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Optimization.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Razor.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.WebPages.Deployment.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.WebPages.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.WebPages.Razor.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\WebGrease.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Newtonsoft.Json.xml
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Net.Http.Formatting.xml
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Helpers.xml
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Http.xml
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Http.WebHost.xml
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Mvc.xml
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Optimization.xml
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Razor.xml
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.WebPages.xml
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.WebPages.Deployment.xml
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.WebPages.Razor.xml
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Antlr3.Runtime.pdb
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Diagnostics.DiagnosticSource.xml
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AI.Web.xml
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\obj\Debug\Task Management Project 2019 API.csprojAssemblyReference.cache
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\obj\Debug\Task Management Project 2019 API.csproj.CoreCompileInputs.cache
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\obj\Debug\Task Management Project 2019 API.csproj.CopyComplete
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\obj\Debug\Task Management Project 2019 API.dll
+c:\users\ntando d nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\obj\Debug\Task Management Project 2019 API.pdb
+C:\Users\Ntando D Nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Cors.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Http.Cors.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\WebApiContrib.Formatting.Jsonp.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Http.Cors.xml
+C:\Users\Ntando D Nkomo\source\repos\Task Management Project 2019 API\Task Management Project 2019 API\bin\WebApiContrib.Formatting.Jsonp.pdb
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\ApplicationInsights.config
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Task Management Project 2019 API.dll.config
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Task Management Project 2019 API.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Task Management Project 2019 API.pdb
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\csc.exe
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\csc.exe.config
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\csc.rsp
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\csi.exe
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\csi.exe.config
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\csi.rsp
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.AppContext.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Console.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.IO.Compression.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Security.Claims.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.ValueTuple.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\vbc.exe
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\vbc.exe.config
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\vbc.rsp
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\VBCSCompiler.exe
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Antlr3.Runtime.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AI.Web.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Newtonsoft.Json.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Net.Http.Formatting.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Cors.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Helpers.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Http.Cors.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Http.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Http.WebHost.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Mvc.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Optimization.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Razor.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.WebPages.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.WebPages.Razor.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\WebApiContrib.Formatting.Jsonp.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\WebGrease.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Net.Http.Formatting.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Http.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Http.Cors.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Newtonsoft.Json.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Helpers.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Http.WebHost.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Mvc.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Optimization.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.Razor.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.WebPages.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Web.WebPages.Razor.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\WebApiContrib.Formatting.Jsonp.pdb
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Antlr3.Runtime.pdb
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.AI.Web.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\obj\Debug\Task Management Project 2019 API.csproj.AssemblyReference.cache
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\obj\Debug\Task Management Project 2019 API.csproj.CoreCompileInputs.cache
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\obj\Debug\Task Man.A1872C34.Up2Date
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\obj\Debug\Task Management Project 2019 API.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\API\Task Management Project 2019 API\Task Management Project 2019 API\obj\Debug\Task Management Project 2019 API.pdb
