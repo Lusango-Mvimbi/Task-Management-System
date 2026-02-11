@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffff</color>
+    <color name="colorPrimaryDark">#3B9C9C</color>
+    <color name="colorAccent">#D32272</color>
+    <color name="colorTransparent">#CCCCCC</color>
+    <color name="colorStatus">#38ACEC</color>
+
+
+    //extra colours for priority
+    <color name="Red">#FF0000</color>
+    <color name="cardColor">#f2f3f4</color>
+    <color name="Green">#32CD32</color>
+    <color name="Purple">#9127AC</color>
+</resources>

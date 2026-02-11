@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/activity_splash"
+    android:layout_height="match_parent"
+    tools:context=".Splash_Screen"
+    android:background="@drawable/bgcolor">
+
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/id_pager"
+        android:layout_width="match_parent"
+        android:layout_height="680dp"
+        android:layout_marginBottom="32dp"></android.support.v4.view.ViewPager>
+
+
+    <Button
+        android:id="@+id/btnPrev"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/transparent"
+        android:text="Back"
+        android:visibility="invisible"
+        android:textColor="@color/colorPrimary" />
+
+    <Button
+        android:id="@+id/btnSkip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/btnNext"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="-92dp"
+        android:background="@android:color/transparent"
+        android:text="Skip"
+        android:textColor="@color/colorPrimary"
+        android:visibility="visible" />
+
+    <Button
+        android:id="@+id/btnNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/transparent"
+        android:text="Next"
+        android:textColor="@color/colorPrimary"
+        tools:text="Next" />
+    <Button
+        android:id="@+id/btnFinish"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/transparent"
+        android:text="Finish"
+        android:textColor="@color/colorPrimary"
+        android:visibility="invisible"
+        />
+
+
+</RelativeLayout>

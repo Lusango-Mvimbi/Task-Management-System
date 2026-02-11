@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/id_dashboard"
+        android:title="Dashboard"
+        android:icon="@drawable/ic_dashboard" />
+
+    <item
+        android:id="@+id/id_incident"
+
+        android:title="Log Incident"
+        android:icon="@drawable/ic_incident" />
+
+    <item
+        android:id="@+id/id_notifications"
+        android:title="Notifications"
+        android:icon="@drawable/ic_notifications" />
+    <item
+       android:id="@+id/id_tracking"
+       android:title="Track Incident"
+       android:icon="@drawable/ic_tracking" />
+
+</menu>

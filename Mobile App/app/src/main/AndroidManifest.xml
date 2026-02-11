@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.application.mobileapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:usesCleartextTraffic="true"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label=""
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Login"
+            android:windowSoftInputMode="stateHidden"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".Splash_Screen"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".incident_activity"
+            android:windowSoftInputMode="stateHidden"
+            android:label="Log Incident"/>
+        <activity android:name=".progress_activity" />
+        <activity android:name=".notification_Activity"
+            android:label="Notifications"/>
+        <activity android:name=".Log_tracker"
+            android:label="Logged Incidents"/>
+
+        <activity
+            android:name=".MainActivity"
+            android:label="ACS TMS">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Normal_Task" />
+
+    </application>
+
+</manifest>
