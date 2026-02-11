@@ -1,0 +1,254 @@
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\Task Management Website.dll.config
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\Task Management Website.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\Task Management Website.pdb
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\csc.exe
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\csc.exe.config
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\csc.rsp
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\csi.exe
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\csi.exe.config
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\csi.rsp
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.AppContext.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.Console.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\vbc.exe
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\vbc.exe.config
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\vbc.rsp
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\Task Management Project 2019 API.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\System.Web.Optimization.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\System.Web.Mvc.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\System.Web.Http.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\System.Net.Http.Formatting.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\Newtonsoft.Json.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\System.Web.Http.WebHost.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\System.Web.WebPages.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\System.Web.Razor.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\Task Management Project 2019 API.pdb
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\Task Management Project 2019 API.dll.config
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\System.Web.Optimization.xml
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\System.Web.Mvc.xml
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\System.Web.Http.xml
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\System.Net.Http.Formatting.xml
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\Newtonsoft.Json.xml
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\System.Web.Http.WebHost.xml
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\System.Web.WebPages.xml
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\System.Web.Razor.xml
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\obj\Debug\Task Management Website.csprojAssemblyReference.cache
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\obj\Debug\Task Management Website.csproj.CoreCompileInputs.cache
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\obj\Debug\Task Management Website.csproj.CopyComplete
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\obj\Debug\Task Management Website.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\obj\Debug\Task Management Website.pdb
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\System.Web.Cors.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\System.Web.Http.Cors.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\WebApiContrib.Formatting.Jsonp.dll
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\System.Web.Http.Cors.xml
+C:\Users\Ntando D Nkomo\source\repos\Task Management Website\Task Management Website\bin\WebApiContrib.Formatting.Jsonp.pdb
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\Task Management Website.dll.config
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\Task Management Website.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\Task Management Website.pdb
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\csc.exe
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\csc.exe.config
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\csc.rsp
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\csi.exe
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\csi.exe.config
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\csi.rsp
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.AppContext.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Console.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.IO.Compression.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.IO.Pipes.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Security.Claims.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.ValueTuple.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\vbc.exe
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\vbc.exe.config
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\vbc.rsp
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\Newtonsoft.Json.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\System.Net.Http.Formatting.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\System.Web.Cors.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\System.Web.Http.Cors.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\System.Web.Http.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\System.Web.Http.WebHost.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\WebApiContrib.Formatting.Jsonp.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\System.Web.Optimization.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\System.Web.Mvc.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\System.Web.WebPages.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\System.Web.WebPages.Razor.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\System.Web.Razor.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\System.Web.WebPages.Deployment.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\Newtonsoft.Json.xml
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\System.Net.Http.Formatting.xml
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\System.Web.Http.xml
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\System.Web.Http.Cors.xml
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\System.Web.Http.WebHost.xml
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\Task Management Project 2019 API.pdb
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\Task Management Project 2019 API.dll.config
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\WebApiContrib.Formatting.Jsonp.pdb
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\System.Web.Optimization.xml
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\System.Web.Mvc.xml
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\System.Web.WebPages.xml
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\System.Web.WebPages.Razor.xml
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\System.Web.Razor.xml
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\System.Web.WebPages.Deployment.xml
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\obj\Debug\Task Management Website.csprojAssemblyReference.cache
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\obj\Debug\Task Management Website.csproj.CoreCompileInputs.cache
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\obj\Debug\Task Management Website.csproj.CopyComplete
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\obj\Debug\Task Management Website.dll
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\obj\Debug\Task Management Website.pdb
+C:\Users\katlego\Documents\Team 34\WEB\Task Management Website\Task Management Website\bin\FusionCharts.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\Task Management Website.dll.config
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\Task Management Website.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\Task Management Website.pdb
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\csc.exe
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\csc.exe.config
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\csc.rsp
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\csi.exe
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\csi.exe.config
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\csi.rsp
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.AppContext.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Console.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.IO.Compression.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Security.Claims.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.ValueTuple.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\vbc.exe
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\vbc.exe.config
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\vbc.rsp
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\Newtonsoft.Json.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\System.Net.Http.Formatting.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\System.Web.Cors.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\System.Web.Http.Cors.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\System.Web.Http.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\System.Web.Http.WebHost.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\WebApiContrib.Formatting.Jsonp.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\System.Web.Optimization.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\System.Web.Mvc.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\System.Web.WebPages.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\System.Web.WebPages.Razor.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\System.Web.Razor.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\Newtonsoft.Json.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\System.Net.Http.Formatting.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\System.Web.Http.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\System.Web.Http.Cors.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\System.Web.Http.WebHost.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\Task Management Project 2019 API.pdb
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\Task Management Project 2019 API.dll.config
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\WebApiContrib.Formatting.Jsonp.pdb
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\System.Web.Optimization.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\System.Web.Mvc.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\System.Web.WebPages.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\System.Web.WebPages.Razor.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\System.Web.Razor.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\obj\Debug\Task Management Website.csproj.AssemblyReference.cache
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\obj\Debug\Task Management Website.csproj.CoreCompileInputs.cache
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\obj\Debug\Task Man.15FFDC03.Up2Date
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\obj\Debug\Task Management Website.dll
+C:\Users\lusangom\Downloads\team34--Final\team34--Final\WEB\Task Management Website\Task Management Website\obj\Debug\Task Management Website.pdb

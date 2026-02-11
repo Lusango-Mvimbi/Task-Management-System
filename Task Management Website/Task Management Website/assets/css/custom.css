@@ -1,0 +1,375 @@
+﻿.create-Validate {
+    width:100%;
+    height:100px;
+    background-color: orange
+
+}
+
+
+
+.space {
+    margin-top: 20px;
+}
+
+.createTicket {
+    text-align:center;
+    margin: 40px 0 40px 0;
+}
+.createTicket div {
+    font-size: 40px;
+
+}
+
+.assignMenu {
+    margin-top: 40px;
+    
+}
+.assignOption {
+    margin: 0;
+  
+}
+
+
+    .assignOption div {
+        padding: 10px 0px 10px 20px;
+        font-size: 20px;
+        display: block;
+        color: #307fff;
+    }
+
+.assignOption div a {
+    color: #307fff;
+    text-decoration:none;
+}
+
+.assignOption div:hover {
+     font-weight:bold;
+            cursor: pointer;
+            background-color: lightgrey;
+            
+           
+        }
+
+.subHeadingMenu {
+    text-align:center; 
+    background-color: darkgrey; 
+    color:white;
+    padding:10px;
+    margin:0;
+
+}
+
+    .huge {
+        font-size: 40px
+    }
+.pull-right {
+    float: right !important
+}
+
+.pull-left {
+    float: left !important
+}
+
+
+.panel {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05)
+}
+
+.panel-heading {
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px
+}
+
+
+
+.panel-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    color: inherit
+}
+
+
+.panel-footer {
+    padding: 10px 15px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px
+}
+
+
+.panel-evalute {
+    border-color: #009999;
+}
+
+    .panel-evalute > .panel-heading {
+        color: #fff;
+        background-color: #009999;
+        border-color: #009999;
+    }
+
+    .panel-evalute > .panel-footer{
+        background-color:#fff;
+    }
+
+
+
+
+.panel-active {
+    border-color: #5cb85c;
+}
+
+    .panel-success > .panel-heading {
+        color: #3c763d;
+        background-color: #dff0d8;
+        border-color: #d6e9c6
+    }
+
+.panel-active > .panel-heading {
+    border-color: #5cb85c;
+    color: #fff;
+    background-color: #5cb85c
+}
+
+.panel-active > a {
+    color: #5cb85c
+}
+
+    .panel-active > a:hover {
+        color: #3d8b3d
+    }
+
+
+.panel-report {
+    border-color: #f0ad4e
+}
+
+    .panel-report > .panel-heading {
+        border-color: #f0ad4e;
+        color: #fff;
+        background-color: #f0ad4e
+    }
+
+    .panel-report > a {
+        color: #f0ad4e
+    }
+
+        .panel-report > a:hover {
+            color: #df8a13
+        }
+
+.panel-generate {
+    border-color: #000
+}
+
+    .panel-generate > .panel-heading {
+        border-color: #000;
+        color: #fff;
+        background-color: #000;
+    }
+
+    .panel-generate > a {
+        color: dimgray
+    }
+
+        .panel-generate > a:hover {
+            color: #000
+        }
+
+.bg-modal-create-ticket {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.7);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    display: none;
+}
+
+.modal-ticket-content {
+    width:500px;
+    height:545px;
+    border-radius:5px;
+    background-color:white;
+    text-align:center;
+    padding: 55px 20px 20px 20px;
+    position:relative;
+}
+.close-ticket-create {
+    position:absolute;
+    top:0;
+    right:15px;
+    font-size:40px;
+    transform:rotate(45deg);
+    cursor:pointer;
+    
+}
+.tickt-create-instructiions {
+    padding-left: 15px;
+    margin-top: 40px;
+    display: none;
+   
+}
+
+.instruction-title {
+    text-align: center;
+}
+
+.status-active {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #5cb85c;
+}
+.status-complete {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #337ab7
+}
+.status-expired {
+    border-color: #d9534f;
+    color: #fff;
+    background-color: #d9534f
+}
+.status-unassigned {
+    border-color: #000;
+    color: #fff;
+    background-color: #000;
+}
+.status-evaluate {
+    color: #fff;
+    background-color: #009999;
+    border-color: #009999;
+}
+.status-open {
+    color: #000;
+    font-weight:bold;
+}
+
+
+.level-urgent {
+    background-color: #cc3366;
+    color:white;
+    text-align:center;
+}
+.level-normal {
+    background-color: #9966cc;
+    color: white;
+    text-align: center;
+}
+.level-low {
+    background-color: #6699ff;
+    color: white;
+    text-align: center;
+}
+.level-urgent-row {
+    border-left: solid;
+    border-width: 8px;
+    border-color: #cc3366;
+}
+.level-urgent-row:hover {
+    background-color: #edeeee
+}
+.level-normal-row {
+    border-left: solid;
+    border-width: 8px;
+    border-color: #9966cc;
+    
+}
+    .level-normal-row:hover {
+        background-color: #edeeee;
+    }
+.level-low-row {
+    
+    border-left: solid;
+    border-width: 8px;
+    border-color: #6699ff;
+}
+.level-low-row:hover {
+    background-color: #edeeee
+}
+
+.ticket-active-row {
+    border-left: solid;
+    border-width: 15px;
+    border-color: #5cb85c;
+}
+
+.ticket-complete-row {
+    border-left: solid;
+    border-width: 15px;
+    border-color: #337ab7;
+}
+.ticket-unassigned-row {
+    border-left: solid;
+    border-width: 15px;
+    border-color: #000;
+}
+
+
+.ticket-log-row {
+    border-left: solid;
+    border-width: 15px;
+    border-color: #f0ad4e;
+}
+
+.ticket-expired-row {
+    border-left: solid;
+    border-width: 15px;
+    border-color: #d9534f;
+}
+.ticket-evaluate-row {
+    border-left: solid;
+    border-width: 15px;
+    border-color: #009999;
+}
+
+td{
+    text-align:center;
+}
+
+
+.bg-modal-create-log {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.7);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    display: none;
+}
+
+.modal-log-content {
+    width: 500px;
+    height: 440px;
+    border-radius: 5px;
+    background-color: white;
+    text-align: center;
+    padding: 55px 20px 20px 20px;
+    position: relative;
+}
+.close-log-create {
+    position: absolute;
+    top: 0;
+    right: 15px;
+    font-size: 40px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+
+.log-create-instructiions {
+    padding-left: 15px;
+    margin-top: 40px;
+    display: none;
+}

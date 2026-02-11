@@ -1,0 +1,270 @@
+﻿.validate-input {
+    color: #cc6600;
+    border-top: 2px solid orange
+}
+.priority-high {
+    border-left: 4px solid #cc3366;
+}
+.priority-normal {
+    border-left: 4px solid #9966cc;
+}
+.priority-low {
+    border-left: 4px solid #6699ff;
+}
+
+
+.panel {
+    margin-bottom: 20px;
+    background-color: #009999;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    color: white;
+}
+.panel-evalute {
+    border-color: #009999;
+}
+
+.panel-heading {
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px
+}
+
+.panel-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    color: inherit
+}
+.huge {
+    font-size: 40px
+}
+
+.bg-modal-create-ticket {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.7);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    z-index:99;
+    display:none;
+
+   
+}
+
+.modal-ticket-content {
+    width: 500px;
+   
+    border-radius: 5px;
+    background-color: white;
+    text-align: center;
+    padding: 55px 20px 20px 20px;
+    position: relative;
+   
+}
+
+.modal-ticket-title {
+    position: absolute;
+    top: 40px;
+    width: 90%;
+    text-align: center;
+    border-bottom: 2px solid #993399;
+}
+
+
+.close-ticket-create {
+    position: absolute;
+    top: 8px;
+    right: 15px;
+    font-size: 30px;
+    transform: rotate(45deg);
+    cursor: pointer;
+    
+}
+.listTable{
+}
+
+
+.listTable tr {
+    padding:0;
+    margin:0;
+    border-bottom: 1px solid #ececec;
+  
+}
+    .listTable tbody tr:hover {
+        background-color: #ececec;
+        transition: 0.1s;
+    }
+    
+
+.space{
+    margin-top:20px;
+}
+
+.listItem{
+    width:100%;
+    height: 500px;
+}
+
+.listItem ul{
+    border: 1px solid #ececec;
+    border-radius: 3px;
+    padding:0
+}
+
+.listItem ul li{
+    list-style:none;
+    border-bottom: 1px solid #ececec;
+    padding: 9px;
+   
+
+}
+
+.listItem ul li a{
+    width:100%;
+    display:block;
+    font-weight: bold;
+    font-size:16px
+    
+}
+
+.listItem ul li:hover{
+    
+    background-color:#ffccff
+        
+    
+}
+.TeamList {
+    width: 100%;
+    
+    border-left: 4px solid #dbdbdb;
+    border-radius: 2px;
+    border-top: 1px solid #ececec;
+    
+}
+
+.TeamList ul {
+    padding: 0;
+}
+
+.TeamList ul li{
+    list-style:none;
+    border-bottom: 1px solid #ececec;
+    
+}
+
+.TeamList ul li:hover{
+   
+    background-color:#ffccff
+    
+}
+.TeamList a{
+   
+    color:black;
+        
+    
+}
+
+
+
+
+
+
+
+
+
+.EmployeeList {
+    width: 100%;
+   
+    border-left: 4px solid #dbdbdb;
+    border-right: 4px solid #dbdbdb;
+    border-radius: 2px;
+    border-top: 1px solid #ececec;
+}
+
+
+
+
+
+
+.EmployeeList a{
+    display:block;
+    color:black;
+    font-weight: bold;
+    font-size:16px
+}
+.EmployeeList td{
+    padding:0 0 0 10px;    
+}
+.EmployeeList tr{
+    border-bottom: 1px solid #ececec;
+}
+
+.addNew {
+    font-size:20px;
+    background-color: #990099;
+    padding: 0 10px 0 10px;
+    border-radius: 30px;
+    color: white;
+    margin-right:15px;
+}
+
+/*-----------------------------------second modal -------------------------------*/
+
+
+
+.bg-modal {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.7);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    z-index: 99;
+    
+}
+
+.modal-content {
+    width: 500px;
+    border-radius: 5px;
+    background-color: white;
+    text-align: center;
+    padding: 55px 20px 20px 20px;
+    position: relative;
+}
+
+.modal-title {
+    position: absolute;
+    top: 40px;
+    width: 90%;
+    text-align: center;
+    border-bottom: 2px solid #993399;
+}
+
+
+.close-create {
+    position: absolute;
+    top: 8px;
+    right: 15px;
+    font-size: 30px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+
+
+
+
+
+/*-----------------------------------second modal -------------------------------*/
+
+
